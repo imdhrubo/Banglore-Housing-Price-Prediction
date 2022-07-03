@@ -1,2 +1,4 @@
 # Banglore-Housing-Price-Prediction
 This data science project series explains how to create a real estate price prediction website step-by-step. We will first create a model using the Bangalore Home Prices dataset from Kaggle.com using linear regression. The next step would be to create a Python Flask server that processes http requests using the saved model. The third element is a website made using html, css, and javascript that asks the python flask server for the anticipated price once the user enters information about their home's square footage, bedrooms, etc. Nearly all data science techniques, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, and k fold cross validation, will be covered during the model construction process.
+
+![image](https://user-images.githubusercontent.com/101350294/177031463-d2ab6edf-014f-48b8-affc-0db98744b68d.png)
